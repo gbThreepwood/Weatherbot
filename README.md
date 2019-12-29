@@ -1,0 +1,2 @@
+# Weatherbot
+A Mattermost weatherbot
